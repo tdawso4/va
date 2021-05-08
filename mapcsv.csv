@@ -1,0 +1,41 @@
+﻿Name,xcoord,ycoord
+General-gate 0,110,10
+Entrance 0,62,14
+Ranger-stop 0,90,18
+Ranger-stop 1,20,25
+General-gate 1,65,25
+Gate 0,64,34
+Ranger-stop 2,81,36
+General-gate 2,104,32
+Camping 0,53,41
+Gate 1,59,45
+Camping 1,130,50
+Ranger-stop 3,148,45
+Camping 8,183,49
+Gate 2,25,54
+General-gate 3,185,55
+Entrance 1,18,68
+Camping 2,44,64
+Camping 3,46,69
+Gate 3,150,60
+Camping 4,49,89
+Entrance 2,184,87
+Ranger-stop 4,19,95
+General-gate 4,70,98
+General-gate 5,125,111
+Gate 4,165,115
+Ranger stop 5,152,118
+Camping 5,21,121
+General-gate 6,135,137
+General-gate 7,66,144
+Ranger -stop6,124,147
+Gate5,131,146
+Camping 7,181,145
+Ranger-stop 7,101,152
+Gate 6,116,151
+Gate 7,97,160
+Entrance 3,115,168
+Ranger-base,128,174
+Camping 6,150,177
+Entrance 4,140,181
+Gate 8,138,184
